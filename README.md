@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshul Wycliffe</h1>
-<h3 align="center">A passionate wannabe fullstack developer from India</h3>
+<h3 align="center">A Passionate Wannabe Fullstack Developer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anshulwycliffe&label=Profile%20views&color=brightgreen&style=flat-square" alt="anshulwycliffe" />
@@ -17,13 +17,21 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Pathology Reporting Software**
+---
 
-- 🌱 I’m currently learning **Pyside6, Qt Designer, Sqlite3**
+### 🔭 I’m currently working on
+- **Pathology Reporting Software**
 
-- 💬 Ask me about **Python for Desktop Application**
+### 🌱 I’m currently learning
+- **PySide6, Qt Designer, SQLite3**
 
-- 📫 How to reach me **service.anshul@gmail.com**
+### 💬 Ask me about
+- **Python for Desktop Application**
+
+### 📫 How to reach me
+- **Email:** [service.anshul@gmail.com](mailto:service.anshul@gmail.com)
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,6 +48,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anshulwycliffe" height="30" width="40" />
   </a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -115,6 +125,8 @@
 </p>
 
 
+<h3 align="center">📊 GitHub Stats:</h3>
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anshulwycliffe&show_icons=true&theme=radical&count_private=true" alt="anshulwycliffe stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshulwycliffe&show_icons=true&locale=en&layout=compact&theme=radical" alt="anshulwycliffe" />
 </p>
