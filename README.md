@@ -97,7 +97,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="50" height="50"/> 
   </a> 
   <a href="https://wiki.qt.io/Qt_for_Python" target="_blank" rel="noreferrer"> 
-    <img src="https://th.bing.com/th/id/OIP.OHjpLqU94WCgIqPFc8YUugAAAA?rs=1&pid=ImgDetMain" alt="pyside6" width="50" height="50"/> 
+    <img src="https://th.bing.com/th/id/OIP.OHjpLqU94WCgIqPFc8YUugAAAA?rs=1&pid=ImgDetMain" alt="pyside6" width="100" height="50"/> 
   </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
     <img src="https://rewind.ae/wp-content/uploads/2022/10/Untitled-design-26.png" alt="flask" width="50" height="50"/> 
