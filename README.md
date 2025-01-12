@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Pathology Reporting Software**
 
-- 🌱 I’m currently learning **Pyside6, Sqlite3, Qt Designer**
+- 🌱 I’m currently learning **Flask, Sqlite3, Qt Designer**
 
 - 💬 Ask me about **Python Desktop Application**
 
