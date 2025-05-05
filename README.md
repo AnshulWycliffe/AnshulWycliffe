@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Asif Taj</h1>
+ <h1 align="center">Hi 👋, I'm Anshul Wycliffe</h1>
 
 - 🔭 I’m currently working on Pathology Software
 - 🌱 I’m currently learning Backend
@@ -25,7 +25,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,cpp,html,css,js,firebase,github,git,postman,figma,flask,python,java,mongodb,mysql,qt,sqlite,vscode,netlify,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,cpp,html,css,js,firebase,github,git,postman,figma,flask,python,java,mongodb,mysql,qt,sqlite,vscode,netlify,&perline=15)](https://skillicons.dev)
 
 ![Anshul Wycliffe's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshulWycliffe&show_icons=true&theme=dark)
 
