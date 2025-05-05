@@ -25,12 +25,10 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,cpp,html,css,js,firebase,github,git,postman,figma,flask,python,java,mongodb,mysql,qt,sqlite,vscode,netlify,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,cpp,html,css,js,firebase,github,git,postman,figma,flask,python,java,mongodb,mysql,qt,sqlite,vscode,netlify,&perline=10)](https://skillicons.dev)
 
 ![Anshul Wycliffe's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshulWycliffe&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulWycliffe&theme=dark)
 
 
-<br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
