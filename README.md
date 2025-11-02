@@ -1,8 +1,8 @@
  <h1 align="center">Hi 👋, I'm Anshul Wycliffe</h1>
 
 - 🔭 I’m currently working on Pathology Software
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Pyside6 
+- 🌱 I’m currently learning Flask, MongoDB
+- 💬 Ask me anything about Pyside6, MySQL
 - 📫 How to reach me: service.anshul@gmail.com
 - 😄 My website: [https://anshulwycliffe-web.blogspot.com/](https://anshulwycliffe-web.blogspot.com/)
 - ⚡ Fun fact: Null
