@@ -26,9 +26,6 @@
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,cpp,html,css,js,firebase,github,git,postman,figma,flask,python,java,mongodb,mysql,qt,sqlite,vscode,netlify,vercel,&perline=15)](https://skillicons.dev)
-
-![Anshul Wycliffe's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshulWycliffe&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulWycliffe&theme=dark)
 
 
