@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning Flask, MongoDB
 - 💬 Ask me anything about Pyside6, MySQL
 - 📫 How to reach me: service.anshul@gmail.com
-- 😄 My website: [https://anshulwycliffe-web.blogspot.com/](https://anshulwycliffe-web.blogspot.com/)
+- 😄 My blog: [https://anshulwycliffe-web.blogspot.com/](https://anshulwycliffe-web.blogspot.com/)
+- 😄 My portfolio: [https://anshulwycliffe.vercel.app/](https://anshulwycliffe.vercel.app/)
 - ⚡ Fun fact: Null
   
 ### Connect with me:
