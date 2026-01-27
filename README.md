@@ -1,31 +1,52 @@
- <h1 align="center">Hi 👋, I'm Anshul Wycliffe</h1>
+<h1 align="center">Hi 👋, I'm Anshul Wycliffe</h1>
+<h3 align="center">Software Developer | Python • Flask • PySide6 • Web & Desktop Applications</h3>
 
-- 🔭 I’m currently working on Pathology Software
-- 🌱 I’m currently learning Flask, MongoDB
-- 💬 Ask me anything about Pyside6, MySQL
-- 📫 How to reach me: service.anshul@gmail.com
-- 😄 My blog: [https://anshulwycliffe-web.blogspot.com/](https://anshulwycliffe-web.blogspot.com/)
-- 😄 My portfolio: [https://anshulwycliffe.vercel.app/](https://anshulwycliffe.vercel.app/)
-- ⚡ Fun fact: Null
-  
-### Connect with me:
+<p align="center">
+🚀 Building scalable software solutions with clean architecture and intuitive UI.
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 🔭 Currently working on a **Pathology Management Software**
+- 🌱 Learning **Flask, MongoDB**, and backend scalability
+- 💬 Ask me about **PySide6, Flask, MySQL, SQLite, Desktop App Development**
+- 📫 Reach me at: **service.anshul@gmail.com**
+- 📝 Blog: https://anshulwycliffe-web.blogspot.com/
+- 🌐 Portfolio: https://anshulwycliffe.vercel.app/
+- ⚡ Fun fact: `NULL`
+
+---
+
+### 🤝 Connect With Me
 <div id="badges">
   <a href="https://github.com/AnshulWycliffe">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/@anshulwycliffe">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-   <a href="https://www.instagram.com/anshulwycliffe/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a href="https://www.instagram.com/anshulwycliffe/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-   
-   <a href="https://x.com/WycliffeAnshul">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://x.com/WycliffeAnshul">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </div>
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,cpp,html,css,js,firebase,github,git,postman,figma,flask,python,java,mongodb,mysql,qt,sqlite,vscode,netlify,vercel,&perline=15)](https://skillicons.dev)
+---
 
+### 🛠️ Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=python,flask,qt,js,html,css,mongodb,mysql,sqlite,java,cpp,firebase,git,github,postman,figma,androidstudio,vscode,netlify,vercel&perline=10)](https://skillicons.dev)
 
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnshulWycliffe&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulWycliffe&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+⭐ *Always learning, building, and improving software that solves real-world problems.*
