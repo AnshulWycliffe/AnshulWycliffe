@@ -8,9 +8,9 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on a **Pathology Management Software**
-- 🌱 Learning **Flask, MongoDB**, and backend scalability
-- 💬 Ask me about **PySide6, Flask, MySQL, SQLite, Desktop App Development**
+ 🔭 Currently working on a **Pathology Management Software**
+* 🌱 Learning **Flask, MongoDB**, and backend scalability
+* 💬 Ask me about **PySide6, Flask, MySQL, SQLite, Desktop App Development**
 - 📫 Reach me at: **service.anshul@gmail.com**
 - 📝 Blog: https://anshulwycliffe-web.blogspot.com/
 - 🌐 Portfolio: https://anshulwycliffe.vercel.app/
