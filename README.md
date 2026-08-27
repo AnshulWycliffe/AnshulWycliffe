@@ -1,3 +1,19 @@
-![](banner.svg)
+<img src="main.png" >
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=00FF00&background=0D1117&center=true&width=600&lines=Hi+there%2C+I'm+Anshul+Wycliffe" />
+### 🤝 Connect With Me
+<div id="badges">
+  <a href="https://github.com/AnshulWycliffe">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@anshulwycliffe">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/anshulwycliffe/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://x.com/WycliffeAnshul">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</div>
+
+---
