@@ -1,14 +1,3 @@
-<div align="center">
-
 <img src="./banner.svg" width="100%" alt="Anshul Wycliffe">
 
-<a id="about"></a>
-<img src="./about.svg" width="100%" alt="About">
-
-<a id="experience"></a>
-<img src="./experience.svg" width="100%" alt="Experience">
-
-<a id="connect"></a>
-<img src="./connect.svg" width="100%" alt="Connect">
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=00FF00&background=0D1117&center=true&width=600&lines=Hi+there%2C+I'm+Anshul+Wycliffe" />

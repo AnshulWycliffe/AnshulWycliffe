@@ -18,13 +18,6 @@
        id="color-profile1" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath10">
-      <path
-         d="M -0.13840663,-0.04530507 H 750.26364 V 250.19337 H -0.13840663 Z"
-         id="path10" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
        id="clipPath17">
       <path
          d="M -89.833927,-78.45454 H 585.26108 V 29.603037 H -89.833927 Z"
@@ -73,13 +66,6 @@
          d="m -565.00584,-78.45454 h 675.095 V 29.603037 h -675.095 z"
          id="path21" />
     </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath85">
-      <path
-         d="M -0.11586758,4.7004796 H 628.13696 V 251.13857 H -0.11586758 Z"
-         id="path85" />
-    </clipPath>
   </defs>
   <g
      id="g1">
@@ -92,55 +78,52 @@
          transform="translate(0,10.559995)" />
     </g>
     <g
-       id="g4">
+       id="g5">
       <path
-         id="path4"
+         id="path5"
          d="M 0,0 H 1600 V 600 H 0 Z"
          style="fill:#010b0f;fill-opacity:1;fill-rule:nonzero;stroke:none"
          transform="translate(0,10.559995)" />
     </g>
     <g
-       id="g5">
+       id="g6">
       <path
          d="M 0,0 H 7405 V 256 H 0 Z"
          style="fill:#263d44;fill-opacity:1;fill-rule:nonzero;stroke:none"
          transform="matrix(0.2064784,0,0,0.2064784,35.482123,47.713863)"
          opacity="1"
-         id="path5" />
+         id="path6" />
     </g>
     <g
-       id="g7">
+       id="g8">
       <path
-         id="path7"
+         id="path8"
          d="M 0.21063285,0 H 1528.8206 V 52.84375 H 0.21063285 Z"
          style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          transform="translate(35.482123,47.713863)" />
     </g>
     <g
-       id="g9">
+       id="g10">
       <path
-         id="path9"
+         id="path10"
          d="M 24,4 C 12.95,4 4,12.95 4,24 4,35.049999 12.95,44 24,44 35.049999,44 44,35.049999 44,24 44,12.950001 35.049999,4 24,4 Z"
          style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
          transform="matrix(1.125,0,0,1.125,828.88061,293.85723)" />
     </g>
     <g
-       id="g10">
-      <g
-         id="g11">
-        <path
-           d="M 0,0 H 750 V 256 H 0 Z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(2.0383739,0,0,2.0383739,35.482123,100.57234)"
-           clip-path="url(#clipPath10)"
-           id="path11" />
-      </g>
+       id="g11">
+      <path
+         d="M 0,0 H 803 V 256 H 0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1.9037173,0,0,1.9037173,35.482123,100.57234)"
+         opacity="1"
+         id="path11" />
     </g>
     <g
        id="g13">
       <path
          id="path13"
-         d="M 0.0142185,0 H 1529.017 V 521.8125 H 0.0142185 Z"
+         d="M 0.01010627,0 H 1529.0212 V 487.34375 H 0.01010627 Z"
          style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          transform="translate(35.482123,100.57233)" />
     </g>
@@ -341,7 +324,7 @@
              id="tspan45"
              style="font-variant:normal;font-weight:normal;font-size:26.66px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
              x="0"
-             y="0"> Software Developer</tspan></text>
+             y="0"> Software Developer &amp; Founder @WycLIMS</tspan></text>
       </g>
     </g>
     <g
@@ -434,17 +417,14 @@
       </g>
       <g
          id="g57">
-        <a href="#about">
-            <text
-            id="text57"
-            xml:space="preserve"
-            transform="translate(396.47287,542.13169)"><tspan
-               id="tspan57"
-               style="font-variant:normal;font-weight:700;font-size:26.66px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               x="0"
-               y="0">/about</tspan>
-            </text>
-         </a>
+        <text
+           id="text57"
+           xml:space="preserve"
+           transform="translate(396.47287,542.13169)"><tspan
+             id="tspan57"
+             style="font-variant:normal;font-weight:700;font-size:26.66px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             x="0"
+             y="0">/about</tspan></text>
       </g>
       <g
          id="g58">
@@ -481,17 +461,14 @@
       </g>
       <g
          id="g61">
-         <a href="#experience">
-            <text
-               id="text61"
-               xml:space="preserve"
-               transform="translate(616.31661,542.13169)"><tspan
-                  id="tspan61"
-                  style="font-variant:normal;font-weight:700;font-size:26.66px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                  x="0"
-                  y="0">/experience</tspan>
-            </text>
-         </a>
+        <text
+           id="text61"
+           xml:space="preserve"
+           transform="translate(616.31661,542.13169)"><tspan
+             id="tspan61"
+             style="font-variant:normal;font-weight:700;font-size:26.66px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             x="0"
+             y="0">/experience</tspan></text>
       </g>
       <g
          id="g62">
@@ -528,17 +505,14 @@
       </g>
       <g
          id="g65">
-        <a href="#skills">
-            <text
-               id="text65"
-               xml:space="preserve"
-               transform="translate(894.78534,542.13169)"><tspan
-                  id="tspan65"
-                  style="font-variant:normal;font-weight:700;font-size:26.66px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+        <text
+           id="text65"
+           xml:space="preserve"
+           transform="translate(894.78534,542.13169)"><tspan
+             id="tspan65"
+             style="font-variant:normal;font-weight:700;font-size:26.66px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
              x="0"
-             y="0">/skills</tspan>
-            </text>
-         </a>
+             y="0">/skills</tspan></text>
       </g>
       <g
          id="g66">
@@ -575,28 +549,20 @@
       </g>
       <g
          id="g69">
-        <a href="#connect">
-            <text
-               id="text69"
-               xml:space="preserve"
-               transform="translate(1114.6291,542.13169)"><tspan
-                  id="tspan69"
-                  style="font-variant:normal;font-weight:700;font-size:26.66px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+        <text
+           id="text69"
+           xml:space="preserve"
+           transform="translate(1114.6291,542.13169)"><tspan
+             id="tspan69"
+             style="font-variant:normal;font-weight:700;font-size:26.66px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
              x="0"
-             y="0">/connect</tspan>
-            </text>
-         </a>
+             y="0">/connect</tspan></text>
       </g>
     </g>
     <g
        id="g70">
       <g
          id="g71">
-        <path
-           id="path71"
-           d="M 55.34375,71 H 1198.5 v 2 H 55.34375 Z"
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="translate(157.94163,498.13169)" />
         <text
            id="text71"
            xml:space="preserve"
@@ -656,732 +622,20 @@
          transform="matrix(1.3333333,0,0,-1.3333333,0,621.11997)" />
     </g>
     <g
+       id="g78">
+      <path
+         id="path78"
+         d="M 26.611595,24.896994 H 1173.3885 V 390.41072 H 26.611595 Z"
+         style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="matrix(1.3333333,0,0,-1.3333333,0,621.11997)" />
+    </g>
+    <g
        id="g79">
       <path
          id="path79"
          d="m 625.03546,208.38908 h 33.68298 v 33.68298 h -33.68298 z"
          style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
          transform="matrix(1.3333333,0,0,-1.3333333,0,621.11997)" />
-    </g>
-  </g>
-  <g
-     id="g110">
-    <g
-       id="g112">
-      <path
-         id="path112"
-         d="M 0,0 H 1600 V 600 H 0 Z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         transform="translate(3240,10.559995)" />
-    </g>
-    <g
-       id="g113">
-      <path
-         id="path113"
-         d="M 0,0 H 1600 V 600 H 0 Z"
-         style="fill:#010b0f;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         transform="translate(3240,10.559995)" />
-    </g>
-    <g
-       id="g114">
-      <path
-         id="path114"
-         d="M 24,4 C 12.95,4 4,12.95 4,24 4,35.049999 12.95,44 24,44 35.049999,44 44,35.049999 44,24 44,12.950001 35.049999,4 24,4 Z"
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         transform="matrix(1.125,0,0,1.125,4068.8806,293.85723)" />
-    </g>
-    <g
-       id="g115">
-      <g
-         id="g116">
-        <path
-           d="M 0,0 H 628 V 256 H 0 Z"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(2.4346885,0,0,2.4346885,3275.4821,-0.88420862)"
-           clip-path="url(#clipPath85)"
-           id="path115" />
-      </g>
-    </g>
-    <g
-       id="g118">
-      <path
-         id="path118"
-         d="M 0.01569987,0 H 1529.0156 V 623.26563 H 0.01569987 Z"
-         style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         transform="translate(3275.4821,-0.88420862)" />
-    </g>
-    <g
-       id="g120">
-      <g
-         id="g121">
-        <text
-           id="text121"
-           xml:space="preserve"
-           transform="translate(3300,51.08203)"><tspan
-             id="tspan121"
-             style="font-variant:normal;font-weight:700;font-size:26.66px;font-family:Consolas;writing-mode:lr-tb;fill:#00bf63;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">~/&gt;</tspan></text>
-      </g>
-      <g
-         id="g122">
-        <text
-           id="text122"
-           xml:space="preserve"
-           transform="translate(3343.9687,51.08203)"><tspan
-             id="tspan122"
-             style="font-variant:normal;font-weight:700;font-size:26.66px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0"> experience</tspan></text>
-      </g>
-    </g>
-    <g
-       id="g123">
-      <g
-         id="g124">
-        <text
-           id="text124"
-           xml:space="preserve"
-           transform="translate(3300,86.377248)"><tspan
-             id="tspan124"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">Software Developer</tspan></text>
-      </g>
-    </g>
-    <g
-       id="g125">
-      <g
-         id="g126">
-        <text
-           id="text126"
-           xml:space="preserve"
-           transform="translate(3300,125.37725)"><tspan
-             id="tspan126"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#243ce6;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">William Patholab</tspan></text>
-      </g>
-    </g>
-    <g
-       id="g127">
-      <g
-         id="g128">
-        <text
-           id="text128"
-           xml:space="preserve"
-           transform="translate(3300,164.37724)"><tspan
-             id="tspan128"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#00bf63;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">Nov 2023 – Sep 2024</tspan></text>
-      </g>
-      <g
-         id="g129">
-        <text
-           id="text129"
-           xml:space="preserve"
-           transform="translate(3592.3437,164.37724)"><tspan
-             id="tspan129"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0"> · 11 mos · Chhattisgarh, India</tspan></text>
-      </g>
-    </g>
-    <g
-       id="g130">
-      <path
-         id="path130"
-         d="m 35,135.5 c -4e-6,0.46411 -0.08881,0.91057 -0.266426,1.33937 -0.177616,0.4288 -0.430515,0.8073 -0.758701,1.1355 -0.32819,0.32817 -0.706685,0.58107 -1.135487,0.7587 C 32.410587,138.91118 31.964127,138.99998 31.5,139 c -0.464132,-2e-5 -0.910597,-0.0888 -1.339397,-0.26643 -0.428801,-0.17763 -0.807293,-0.43053 -1.135479,-0.7587 -0.32819,-0.3282 -0.581091,-0.7067 -0.758706,-1.13548 C 28.088804,136.41057 27.999998,135.96411 28,135.5 c -2e-6,-0.46414 0.0888,-0.91061 0.266418,-1.33942 0.177615,-0.42878 0.430516,-0.80728 0.758706,-1.13546 0.328186,-0.32821 0.70668,-0.5811 1.13548,-0.75872 C 30.589403,132.08881 31.035868,132 31.5,132 c 0.464127,0 0.910587,0.0888 1.339386,0.2664 0.428802,0.17762 0.807297,0.43051 1.135487,0.75872 0.328186,0.32818 0.581085,0.70668 0.758701,1.13546 C 34.91119,134.58939 34.999996,135.03586 35,135.5 Z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         transform="translate(3300,61.377249)" />
-    </g>
-    <g
-       id="g131">
-      <g
-         id="g132">
-        <text
-           id="text132"
-           xml:space="preserve"
-           transform="translate(3347.5937,203.37724)"><tspan
-             id="tspan132"
-             style="font-style:italic;font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">Developed and maintained pathology reporting software.</tspan></text>
-      </g>
-    </g>
-    <g
-       id="g133">
-      <path
-         id="path133"
-         d="m 35,174.5 c -4e-6,0.46411 -0.08881,0.91057 -0.266426,1.33936 -0.177616,0.42878 -0.430515,0.80729 -0.758701,1.13549 -0.32819,0.32819 -0.706685,0.58109 -1.135487,0.75872 C 32.410587,177.91118 31.964127,177.99998 31.5,178 c -0.464132,-2e-5 -0.910597,-0.0888 -1.339397,-0.26643 -0.428801,-0.17763 -0.807293,-0.43053 -1.135479,-0.75872 -0.32819,-0.3282 -0.581091,-0.70671 -0.758706,-1.13549 C 28.088804,175.41057 27.999998,174.96411 28,174.5 c -2e-6,-0.46414 0.0888,-0.91061 0.266418,-1.33942 0.177615,-0.42878 0.430516,-0.80728 0.758706,-1.13546 0.328186,-0.32821 0.70668,-0.5811 1.13548,-0.7587 C 30.589403,171.08881 31.035868,171 31.5,171 c 0.464127,0 0.910587,0.0888 1.339386,0.26642 0.428802,0.1776 0.807297,0.43049 1.135487,0.7587 0.328186,0.32818 0.581085,0.70668 0.758701,1.13546 C 34.91119,173.58939 34.999996,174.03586 35,174.5 Z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         transform="translate(3300,61.377249)" />
-    </g>
-    <g
-       id="g134">
-      <g
-         id="g135">
-        <text
-           id="text135"
-           xml:space="preserve"
-           transform="translate(3347.5937,242.37724)"><tspan
-             id="tspan135"
-             style="font-style:italic;font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">Implemented new features based on lab requirements.</tspan></text>
-      </g>
-    </g>
-    <g
-       id="g136">
-      <path
-         id="path136"
-         d="m 35,213.5 c -4e-6,0.46413 -0.08881,0.91058 -0.266426,1.33937 -0.177616,0.42879 -0.430515,0.80728 -0.758701,1.13548 -0.32819,0.32819 -0.706685,0.58109 -1.135487,0.75872 C 32.410587,216.91118 31.964127,216.99998 31.5,217 c -0.464132,-2e-5 -0.910597,-0.0888 -1.339397,-0.26643 -0.428801,-0.17763 -0.807293,-0.43053 -1.135479,-0.75872 -0.32819,-0.3282 -0.581091,-0.70669 -0.758706,-1.13548 C 28.088804,214.41058 27.999998,213.96413 28,213.5 c -2e-6,-0.46414 0.0888,-0.91061 0.266418,-1.33942 0.177615,-0.42878 0.430516,-0.80728 0.758706,-1.13546 0.328186,-0.32821 0.70668,-0.5811 1.13548,-0.7587 C 30.589403,210.08881 31.035868,210 31.5,210 c 0.464127,0 0.910587,0.0888 1.339386,0.26642 0.428802,0.1776 0.807297,0.43049 1.135487,0.7587 0.328186,0.32818 0.581085,0.70668 0.758701,1.13546 C 34.91119,212.58939 34.999996,213.03586 35,213.5 Z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         transform="translate(3300,61.377249)" />
-    </g>
-    <g
-       id="g137">
-      <g
-         id="g138">
-        <text
-           id="text138"
-           xml:space="preserve"
-           transform="translate(3347.5937,281.37724)"><tspan
-             id="tspan138"
-             style="font-style:italic;font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">Handled backend, database, and UI workflows.</tspan></text>
-      </g>
-    </g>
-    <g
-       id="g139">
-      <g
-         id="g140">
-        <text
-           id="text140"
-           xml:space="preserve"
-           transform="translate(3300,351.76832)"><tspan
-             id="tspan140"
-             style="font-variant:normal;font-weight:700;font-size:26.66px;font-family:Consolas;writing-mode:lr-tb;fill:#00bf63;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">~/&gt;</tspan></text>
-      </g>
-      <g
-         id="g141">
-        <text
-           id="text141"
-           xml:space="preserve"
-           transform="translate(3343.9687,351.76832)"><tspan
-             id="tspan141"
-             style="font-variant:normal;font-weight:700;font-size:26.66px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0"> skills</tspan></text>
-      </g>
-    </g>
-    <g
-       id="g142">
-      <g
-         id="g143">
-        <text
-           id="text143"
-           xml:space="preserve"
-           transform="translate(3300,386.30072)"><tspan
-             id="tspan143"
-             style="font-style:italic;font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#00bf63;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">[ TECH STACK ]</tspan></text>
-      </g>
-      <g
-         id="g144">
-        <text
-           id="text144"
-           xml:space="preserve"
-           transform="translate(3515.4062,386.30072)"><tspan
-             id="tspan144"
-             style="font-style:italic;font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#00bf63;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0"> </tspan></text>
-      </g>
-    </g>
-    <g
-       id="g145">
-      <g
-         id="g146">
-        <text
-           id="text146"
-           xml:space="preserve"
-           transform="translate(3300,425.30072)"><tspan
-             id="tspan146"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">Python</tspan></text>
-      </g>
-      <g
-         id="g147">
-        <text
-           id="text147"
-           xml:space="preserve"
-           transform="translate(3392.3281,425.30072)"><tspan
-             id="tspan147"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">    </tspan></text>
-      </g>
-      <g
-         id="g148">
-        <text
-           id="text148"
-           xml:space="preserve"
-           transform="translate(3453.875,425.30072)"><tspan
-             id="tspan148"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">Flask</tspan></text>
-      </g>
-      <g
-         id="g149">
-        <text
-           id="text149"
-           xml:space="preserve"
-           transform="translate(3530.8125,425.30072)"><tspan
-             id="tspan149"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">    </tspan></text>
-      </g>
-      <g
-         id="g150">
-        <text
-           id="text150"
-           xml:space="preserve"
-           transform="translate(3592.3594,425.30072)"><tspan
-             id="tspan150"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">PySide6</tspan></text>
-      </g>
-      <g
-         id="g151">
-        <text
-           id="text151"
-           xml:space="preserve"
-           transform="translate(3700.0625,425.30072)"><tspan
-             id="tspan151"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">    </tspan></text>
-      </g>
-      <g
-         id="g152">
-        <text
-           id="text152"
-           xml:space="preserve"
-           transform="translate(3761.6094,425.30072)"><tspan
-             id="tspan152"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">JavaScript</tspan></text>
-      </g>
-      <g
-         id="g153">
-        <text
-           id="text153"
-           xml:space="preserve"
-           transform="translate(3915.4844,425.30072)"><tspan
-             id="tspan153"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">    </tspan></text>
-      </g>
-      <g
-         id="g154">
-        <text
-           id="text154"
-           xml:space="preserve"
-           transform="translate(3977.0312,425.30072)"><tspan
-             id="tspan154"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">HTML</tspan></text>
-      </g>
-      <g
-         id="g155">
-        <text
-           id="text155"
-           xml:space="preserve"
-           transform="translate(4038.5781,425.30072)"><tspan
-             id="tspan155"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">      </tspan></text>
-      </g>
-      <g
-         id="g156">
-        <text
-           id="text156"
-           xml:space="preserve"
-           transform="translate(4130.9062,425.30072)"><tspan
-             id="tspan156"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">CSS</tspan></text>
-      </g>
-      <g
-         id="g157">
-        <text
-           id="text157"
-           xml:space="preserve"
-           transform="translate(4177.0781,425.30072)"><tspan
-             id="tspan157"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0"> </tspan></text>
-      </g>
-    </g>
-    <g
-       id="g158">
-      <g
-         id="g159">
-        <text
-           id="text159"
-           xml:space="preserve"
-           transform="translate(3300,464.30072)"><tspan
-             id="tspan159"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">C++</tspan></text>
-      </g>
-      <g
-         id="g160">
-        <text
-           id="text160"
-           xml:space="preserve"
-           transform="translate(3346.1719,464.30072)"><tspan
-             id="tspan160"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">       </tspan></text>
-      </g>
-      <g
-         id="g161">
-        <text
-           id="text161"
-           xml:space="preserve"
-           transform="translate(3453.875,464.30072)"><tspan
-             id="tspan161"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">Java</tspan></text>
-      </g>
-      <g
-         id="g162">
-        <text
-           id="text162"
-           xml:space="preserve"
-           transform="translate(3515.4219,464.30072)"><tspan
-             id="tspan162"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">     </tspan></text>
-      </g>
-      <g
-         id="g163">
-        <text
-           id="text163"
-           xml:space="preserve"
-           transform="translate(3592.3594,464.30072)"><tspan
-             id="tspan163"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">MongoDB</tspan></text>
-      </g>
-      <g
-         id="g164">
-        <text
-           id="text164"
-           xml:space="preserve"
-           transform="translate(3700.0625,464.30072)"><tspan
-             id="tspan164"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">    </tspan></text>
-      </g>
-      <g
-         id="g165">
-        <text
-           id="text165"
-           xml:space="preserve"
-           transform="translate(3761.6094,464.30072)"><tspan
-             id="tspan165"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">MySQL</tspan></text>
-      </g>
-      <g
-         id="g166">
-        <text
-           id="text166"
-           xml:space="preserve"
-           transform="translate(3838.5469,464.30072)"><tspan
-             id="tspan166"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">         </tspan></text>
-      </g>
-      <g
-         id="g167">
-        <text
-           id="text167"
-           xml:space="preserve"
-           transform="translate(3977.0312,464.30072)"><tspan
-             id="tspan167"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">SQLite</tspan></text>
-      </g>
-      <g
-         id="g168">
-        <text
-           id="text168"
-           xml:space="preserve"
-           transform="translate(4069.3593,464.30072)"><tspan
-             id="tspan168"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">    </tspan></text>
-      </g>
-      <g
-         id="g169">
-        <text
-           id="text169"
-           xml:space="preserve"
-           transform="translate(4130.9062,464.30072)"><tspan
-             id="tspan169"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">Supabase</tspan></text>
-      </g>
-      <g
-         id="g170">
-        <text
-           id="text170"
-           xml:space="preserve"
-           transform="translate(4254,464.30072)"><tspan
-             id="tspan170"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0"> </tspan></text>
-      </g>
-    </g>
-    <g
-       id="g171">
-      <g
-         id="g172">
-        <text
-           id="text172"
-           xml:space="preserve"
-           transform="translate(3300,542.30072)"><tspan
-             id="tspan172"
-             style="font-style:italic;font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#00bf63;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">[ TECHNOLOGIES ]</tspan></text>
-      </g>
-      <g
-         id="g173">
-        <text
-           id="text173"
-           xml:space="preserve"
-           transform="translate(3546.1875,542.30072)"><tspan
-             id="tspan173"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0"> </tspan></text>
-      </g>
-    </g>
-    <g
-       id="g174">
-      <g
-         id="g175">
-        <text
-           id="text175"
-           xml:space="preserve"
-           transform="translate(3300,581.30071)"><tspan
-             id="tspan175"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">Linux</tspan></text>
-      </g>
-      <g
-         id="g176">
-        <text
-           id="text176"
-           xml:space="preserve"
-           transform="translate(3376.9375,581.30071)"><tspan
-             id="tspan176"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">     </tspan></text>
-      </g>
-      <g
-         id="g177">
-        <text
-           id="text177"
-           xml:space="preserve"
-           transform="translate(3453.875,581.30071)"><tspan
-             id="tspan177"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">Git</tspan></text>
-      </g>
-      <g
-         id="g178">
-        <text
-           id="text178"
-           xml:space="preserve"
-           transform="translate(3500.0469,581.30071)"><tspan
-             id="tspan178"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">      </tspan></text>
-      </g>
-      <g
-         id="g179">
-        <text
-           id="text179"
-           xml:space="preserve"
-           transform="translate(3592.375,581.30071)"><tspan
-             id="tspan179"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">GitHub</tspan></text>
-      </g>
-      <g
-         id="g180">
-        <text
-           id="text180"
-           xml:space="preserve"
-           transform="translate(3684.7031,581.30071)"><tspan
-             id="tspan180"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">     </tspan></text>
-      </g>
-      <g
-         id="g181">
-        <text
-           id="text181"
-           xml:space="preserve"
-           transform="translate(3761.6406,581.30071)"><tspan
-             id="tspan181"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">VS Code</tspan></text>
-      </g>
-      <g
-         id="g182">
-        <text
-           id="text182"
-           xml:space="preserve"
-           transform="translate(3869.3437,581.30071)"><tspan
-             id="tspan182"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">       </tspan></text>
-      </g>
-      <g
-         id="g183">
-        <text
-           id="text183"
-           xml:space="preserve"
-           transform="translate(3977.0468,581.30071)"><tspan
-             id="tspan183"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">Vercel</tspan></text>
-      </g>
-      <g
-         id="g184">
-        <text
-           id="text184"
-           xml:space="preserve"
-           transform="translate(4069.375,581.30071)"><tspan
-             id="tspan184"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">    </tspan></text>
-      </g>
-      <g
-         id="g185">
-        <text
-           id="text185"
-           xml:space="preserve"
-           transform="translate(4130.9218,581.30071)"><tspan
-             id="tspan185"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">Netlify</tspan></text>
-      </g>
-      <g
-         id="g186">
-        <text
-           id="text186"
-           xml:space="preserve"
-           transform="translate(4238.625,581.30071)"><tspan
-             id="tspan186"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">   </tspan></text>
-      </g>
-      <g
-         id="g187">
-        <text
-           id="text187"
-           xml:space="preserve"
-           transform="translate(4284.7968,581.30071)"><tspan
-             id="tspan187"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">Back4Apps</tspan></text>
-      </g>
-      <g
-         id="g188">
-        <text
-           id="text188"
-           xml:space="preserve"
-           transform="translate(4423.2812,581.30071)"><tspan
-             id="tspan188"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">   </tspan></text>
-      </g>
-      <g
-         id="g189">
-        <text
-           id="text189"
-           xml:space="preserve"
-           transform="translate(4469.4531,581.30071)"><tspan
-             id="tspan189"
-             style="font-variant:normal;font-weight:700;font-size:27.99px;font-family:Consolas;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="0"
-             y="0">Docker</tspan></text>
-      </g>
-    </g>
-    <g
-       id="g190">
-      <path
-         id="path190"
-         d="M 26.611595,-0.9570621 H 1173.3885 V 466.50314 H 26.611595 Z"
-         style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
-         transform="matrix(1.3333333,0,0,-1.3333333,3240,621.11997)" />
-    </g>
-    <g
-       id="g191">
-      <path
-         id="path191"
-         d="m 625.03546,208.38908 h 33.68298 v 33.68298 h -33.68298 z"
-         style="fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:none"
-         transform="matrix(1.3333333,0,0,-1.3333333,3240,621.11997)" />
     </g>
   </g>
 </svg>
